@@ -1,3 +1,4 @@
+# Regularized Linear Regression and Bias v.s. Variance
 * linearRegCostFunction.m       
   计算代价函数和梯度      
   ![c22f707190fa58a6e60b840bd55e6717.png](https://us1.myximage.com/2018/08/11/c22f707190fa58a6e60b840bd55e6717.png)
